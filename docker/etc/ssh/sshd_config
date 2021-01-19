@@ -1,0 +1,8 @@
+UsePAM yes
+PrintMotd no
+X11Forwarding no
+AllowTcpForwarding no
+AllowAgentForwarding no
+PermitTunnel no
+ChallengeResponseAuthentication yes
+PasswordAuthentication no
